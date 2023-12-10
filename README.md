@@ -1,7 +1,6 @@
 Hi, I'm Kumar👋
 
-I'm a Senior Machine Learning Engineer and an avid explorer of the tech world. From the University of Florida to
-tech giants like Amazon and Microsoft, my journey has been a blend of academic rigor and industry experience.
+I'm a Senior Machine Learning Engineer and I'm deeply passionate about deep learning and natural language processing, constantly exploring the cutting edge of these fields. From the University of Florida to tech giants like Amazon and Microsoft, my journey has been a blend of academic rigor and industry experience.
 
 - 🎓 I've enriched my professional path with diverse roles across prominent tech companies.
 - 🚀 Passionate about machine learning, I've contributed significantly to the field.
